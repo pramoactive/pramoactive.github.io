@@ -1,0 +1,79 @@
+#navbar-main > div.container.p-0 > div.attr-nav > ul > li.dropdown > ul {
+    left: -55px;
+}
+
+nav.navbar.bootsnav ul.navbar-right li.dropdown ul.dropdown-menu li.dropdown > a.dropdown-toggle:before {
+    float: left;
+}
+
+#navbar-menu > ul > li:nth-child(6) > ul > li:nth-child(1) > ul {
+    
+}
+
+.attr-nav {
+	float: left;
+    margin-left: 15px;
+     margin-right: 0; 
+}
+
+.navbar-right {
+	float: left !important;
+}
+
+.carousel-control.left {
+    left: 0;
+    right: auto;
+}
+
+.carousel-control.right {
+    left: auto;
+    right: 0;
+}
+
+.testimonial-carousel .item blockquote i.fa-quote-left {
+    left: 0;
+}
+
+.testimonial-carousel .item blockquote i.fa-quote-right {
+    right: 0;
+}
+
+.blog-details,
+.hotel-item .blog-details {
+    text-align: right;
+}
+
+.btn {
+	border-radius: 0;
+}
+
+.project-area .section-img {
+    right: 0;
+}
+
+.testimonial-area .section-img {
+    right: 0;
+}
+
+
+.footer-col h3:before {
+    right: 0;
+}
+
+.footer-col.about ul li i {
+    right: 0;
+}
+
+.footer-col.about ul li {
+    padding-left: 0;
+    padding-right: 25px;
+}
+
+.footer-col.twitter .twitter-box {
+    padding-left: 0;
+    padding-right: 30px;
+}
+
+.footer-col.twitter .twitter-box i {
+    right: 0;
+}

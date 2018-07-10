@@ -1,0 +1,127 @@
+@media screen and (min-width: 990px) {
+    body .layout-boxed {
+        max-width: 1200px;
+        width: 100%;
+        margin: auto;
+        position: relative;
+        background-color: #fff;
+        -webkit-box-shadow: 0px 0px 5px #4B4B4B;
+        -moz-box-shadow: 0px 0px 5px #4B4B4B;
+        box-shadow: 0px 0px 5px #4B4B4B;
+        overflow: hidden;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .footer-col.newsletter ul li a i {
+        font-size: 15px;
+        line-height: 30px;
+        width: 30px;
+        height: 30px;
+    }
+}
+
+@media only screen and (max-width:1199px) {
+    .service-item h3 {
+        font-size: 18px;
+    }
+    .separator-area .separator-col h2 {
+        font-size: 35px;
+    }
+    .slide-caption__title {
+        font-size: 30px;
+    }
+    .slide-caption__desc {
+        font-size: 14px;
+    }
+
+    .error-page h1 {
+        font-size: 200px;
+        line-height: 200px;
+    }
+}
+
+@media only screen and (max-width:991px) {
+    .header-navbar .navbar-default .navbar-nav>li>a {
+        margin-left: 16px;
+    }
+    .header-navbar .navbar-nav .dropdown-menu {
+        margin-left: 16px;
+    }
+    .header-navbar .navbar-brand img {
+        width: 130px;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .center767 {
+        float: none;
+        text-align: center;
+    }
+    .header-navbar .navbar-brand {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .header-navbar .navbar-default .navbar-nav>li>a {
+        padding: 12px 0;
+    }
+    .navbar-default .navbar-collapse {
+        max-height: 325px;
+    }
+    .navbar-toggle {
+        margin-top: 18px;
+    }
+    .request-col {
+        margin-top: 30px;
+    }
+
+    .error-page h1 {
+        font-size: 175px;
+        line-height: 175px;
+    }
+}
+
+@media only screen and (max-width:600px) {
+    .section-angle {
+        width: 100%;
+        position: absolute;
+    }
+
+    .separator-col {
+        text-align: center;
+    }
+
+    .error-page h1 {
+        font-size: 150px;
+        line-height: 150px;
+    }
+
+    .hover-item-info h3 a {
+        display: none;
+    }
+}
+
+@media only screen and (max-width:480px) {
+    .counter-box i {
+        position: relative;
+        margin-bottom: 10px;
+    }
+    .counter-box {
+        padding-left: 20px;
+    }
+    .counter-box i {
+        top: 0;
+    }
+    .counter-box i:before {
+        margin-left: 0;
+    }
+    .counter-box h4 {
+        margin-top: 10px;
+    }
+
+    .error-page h1 {
+        font-size: 150px;
+        line-height: 150px;
+    }
+    
+}
